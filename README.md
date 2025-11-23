@@ -26,7 +26,7 @@ A beautiful, fully-featured checkers game implementing French/Moroccan rules wit
   - Turn-based gameplay
   - Visual feedback for selected pieces
   - Game over detection
-  - All text in French
+ 
 
 ## Requirements
 
